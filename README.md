@@ -2,7 +2,7 @@
 
 Project created for educational purposes following the tutorial by @briancodex 
 
-![](https://media4.giphy.com/media/NGLumm80nrXsSQcvXB/giphy.gif)
+![](https://raw.githubusercontent.com/willerlucas/Conheca-Aru-React-App/main/public/images/giphy.gif)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
